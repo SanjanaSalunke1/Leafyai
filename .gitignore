@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# ML Data & Models
+Bell_paper_data/
+models/
+logs/
+
+# OS
+.DS_Store
